@@ -31,6 +31,12 @@ Copy this bot into your own Grok Bot: [On-Device iPhone LLM Expert template](htt
 | `examples/fictional-8gb-setup.md` | Fully fictional 8 GB setup walkthrough |
 | `ATTRIBUTION.md` | Design influences and public sources |
 | `LICENSE` | MIT |
+| `AGENTS.md` | Short agent instructions, boundaries, definition of done |
+| `CONTRIBUTING.md` | How to propose changes safely |
+| `docs/failure-modes.md` | Failure modes and troubleshooting |
+| `evals/` | Golden-set behavioral regressions |
+| `scripts/check.py` | Secrets/PII/em-dash/link hygiene checks |
+| `scripts/github-workflow-checks.yml` | GitHub Actions workflow (copy to `.github/workflows/checks.yml` when the token has `workflow` scope) |
 
 ## Proof-of-work notes
 
@@ -41,6 +47,10 @@ This repository is a cleaned public snapshot of an on-device LLM advisor design:
 - Optional SQLite / JSON graph layer with verification
 - Eval set and iteration loop instead of benchmark-chasing alone
 - Fictional example only (no personal device serials or private notes)
+
+## Review findings
+
+Portfolio review notes (repos and templates): [docs/review-2026-11-09.md in repo-operational-head](https://github.com/thiago-desa/repo-operational-head/blob/main/docs/review-2026-11-09.md).
 
 ## License and attribution
 
