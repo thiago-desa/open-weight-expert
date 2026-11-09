@@ -16,8 +16,7 @@ Phone-side LLMs change monthly. Advice that ignores RAM, prefill cost, thermal t
 
 ## Import into Grok Bot
 
-<!-- TEMPLATE_SHARE_LINK: paste the public Grok Bot template URL here once the bot has exported and the owner has confirmed the review card. -->
-_Template link pending owner confirmation._
+Copy this bot into your own Grok Bot: [On-Device iPhone LLM Expert template](https://x.ai/bot/G1ZOTtpS9XPPcAlUenBk1)
 
 ## Key files
 
